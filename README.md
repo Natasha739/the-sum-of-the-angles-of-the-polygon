@@ -24,3 +24,38 @@ $$
 
 ## Решим задачу, что бы закрепить материал 
 
+[картинка многоугольника](https://yandex.ru/images/search?p=2&text=%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82&pos=18&rpt=simage&img_url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-znatoki%2F1548967%2F2a00000167c251848f76de4066352fcfbe00%2Fw480&from=tabbar&lr=117013)
+
+Дано:
+
+La/Lb/Lc/Ld= 1/2/3/4
+
+Найти:
+
+градус каждого угла
+
+Решение :
+
+Пусть LА=X,тогда LВ=2X,LС=3X,LD=4X
+
+$$
+n=4
+$$
+
+$$
+(n-2)x180=2x180=360
+$$
+
+$$
+X+2X+3X+4X=360 
+$$
+
+$$
+10X=360
+$$
+
+$$
+X=360
+$$
+
+Ответ:LA=36, LB=72, LC=108, LD=144
